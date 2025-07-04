@@ -1,0 +1,195 @@
+[
+    {
+        "container_dims": [
+            96.0,
+            60.0,
+            72.0
+        ],
+        "boxes_input": [
+            {
+                "box_id": "Box_1",
+                "length": 12,
+                "width": 12,
+                "height": 12,
+                "weight": 400,
+                "group": 1,
+                "fragile": false,
+                "delivery_sequence": 1,
+                "dims_norm": [
+                    0.125,
+                    0.2,
+                    0.16666666666666666
+                ],
+                "weight_norm": 0.00016
+            },
+            {
+                "box_id": "Box_2",
+                "length": 24,
+                "width": 12,
+                "height": 12,
+                "weight": 300,
+                "group": 2,
+                "fragile": false,
+                "delivery_sequence": 1,
+                "dims_norm": [
+                    0.25,
+                    0.2,
+                    0.16666666666666666
+                ],
+                "weight_norm": 0.00012
+            },
+            {
+                "box_id": "Box_3",
+                "length": 24,
+                "width": 12,
+                "height": 12,
+                "weight": 300,
+                "group": 2,
+                "fragile": false,
+                "delivery_sequence": 1,
+                "dims_norm": [
+                    0.25,
+                    0.2,
+                    0.16666666666666666
+                ],
+                "weight_norm": 0.00012
+            },
+            {
+                "box_id": "Box_4",
+                "length": 24,
+                "width": 12,
+                "height": 12,
+                "weight": 300,
+                "group": 2,
+                "fragile": false,
+                "delivery_sequence": 1,
+                "dims_norm": [
+                    0.25,
+                    0.2,
+                    0.16666666666666666
+                ],
+                "weight_norm": 0.00012
+            },
+            {
+                "box_id": "Box_5",
+                "length": 24,
+                "width": 12,
+                "height": 12,
+                "weight": 300,
+                "group": 2,
+                "fragile": false,
+                "delivery_sequence": 1,
+                "dims_norm": [
+                    0.25,
+                    0.2,
+                    0.16666666666666666
+                ],
+                "weight_norm": 0.00012
+            },
+            {
+                "box_id": "Box_6",
+                "length": 24,
+                "width": 12,
+                "height": 12,
+                "weight": 300,
+                "group": 2,
+                "fragile": false,
+                "delivery_sequence": 1,
+                "dims_norm": [
+                    0.25,
+                    0.2,
+                    0.16666666666666666
+                ],
+                "weight_norm": 0.00012
+            }
+        ],
+        "final_arrangement": [
+            {
+                "box_id": "Box_1",
+                "pos_x": 0,
+                "pos_y": 0,
+                "pos_z": 0,
+                "length": 12,
+                "width": 12,
+                "height": 12,
+                "x_norm": 0.0,
+                "y_norm": 0.0,
+                "z_norm": 0.0,
+                "group": 1,
+                "placed": true
+            },
+            {
+                "box_id": "Box_2",
+                "pos_x": 0,
+                "pos_y": 12,
+                "pos_z": 0,
+                "length": 24,
+                "width": 12,
+                "height": 12,
+                "x_norm": 0.0,
+                "y_norm": 0.2,
+                "z_norm": 0.0,
+                "group": 2,
+                "placed": true
+            },
+            {
+                "box_id": "Box_4",
+                "pos_x": 12,
+                "pos_y": 0,
+                "pos_z": 0,
+                "length": 24,
+                "width": 12,
+                "height": 12,
+                "x_norm": 0.125,
+                "y_norm": 0.0,
+                "z_norm": 0.0,
+                "group": 2,
+                "placed": true
+            },
+            {
+                "box_id": "Box_5",
+                "pos_x": 0,
+                "pos_y": 24,
+                "pos_z": 0,
+                "length": 24,
+                "width": 12,
+                "height": 12,
+                "x_norm": 0.0,
+                "y_norm": 0.4,
+                "z_norm": 0.0,
+                "group": 2,
+                "placed": true
+            },
+            {
+                "box_id": "Box_6",
+                "pos_x": 0,
+                "pos_y": 36,
+                "pos_z": 0,
+                "length": 24,
+                "width": 12,
+                "height": 12,
+                "x_norm": 0.0,
+                "y_norm": 0.6,
+                "z_norm": 0.0,
+                "group": 2,
+                "placed": true
+            },
+            {
+                "box_id": "Box_3",
+                "pos_x": 12,
+                "pos_y": 36,
+                "pos_z": 0,
+                "length": 24,
+                "width": 12,
+                "height": 12,
+                "x_norm": 0.125,
+                "y_norm": 0.6,
+                "z_norm": 0.0,
+                "group": 2,
+                "placed": true
+            }
+        ],
+        "best_score": -13.0,
+        "label": "final_coords"
+    }
+]
