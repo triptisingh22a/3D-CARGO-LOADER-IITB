@@ -66,7 +66,7 @@ https://drive.google.com/file/d/12vzPqpxCG3VAHr-lfWeAjGJ9R36QdpoZ/view?usp=drive
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/triptisingh22a/3D-CARGO-LOADER-IITB-unity.git
+   git clone https://github.com/triptisingh22a/3D-CARGO-LOADER-IITB.git
 2. Open in Unity Hub (target version: Unity 2022.3.x)
 
 3.Open the MainLoaderScene from the Scenes/ folder.
